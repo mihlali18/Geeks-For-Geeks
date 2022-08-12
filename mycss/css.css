@@ -1,15 +1,24 @@
-<style>
-   h1 {color: aqua;
-      text-align: center; 
-      border: 2px solid #091418; 
-      background-color: chartreuse;            
-   }
-.container {
-      border: 2px solid #389dc2; 
-      background-color: darkorange;             
-}     
-p{
-        border: 2px solid #040804; 
-        background-color: fuchsia;           
+h1{
+    color: aqua;
+    text-align: center;  
+    border: 2px; 
+    background-color: rgb(233, 227, 227);             
 }
-</style>
+.container {
+    border: 2px;
+    background-color: deeppink;                
+}
+p{
+    border: 2px solid #4089;
+    background-color: rgb(212, 14, 136); 
+}
+#para1 {
+    background-color: white;                
+}
+span{
+    border: 2px #126b12;
+    background-color: dimgray;
+}
+a{
+   border: 2px green;                 
+}
