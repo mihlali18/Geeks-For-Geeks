@@ -1,0 +1,15 @@
+<style>
+   h1 {color: aqua;
+      text-align: center; 
+      border: 2px solid #091418; 
+      background-color: chartreuse;            
+   }
+.container {
+      border: 2px solid #389dc2; 
+      background-color: darkorange;             
+}     
+p{
+        border: 2px solid #040804; 
+        background-color: fuchsia;           
+}
+</style>
